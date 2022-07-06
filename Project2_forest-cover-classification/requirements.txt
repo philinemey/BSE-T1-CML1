@@ -1,0 +1,8 @@
+### Requirements ###
+spyder-kernels==2.1
+pandas
+sklearn
+scipy
+jupyterlab
+matplotlib
+seaborn
