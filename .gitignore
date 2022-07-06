@@ -9,6 +9,6 @@ build/
 __pycache__/
 *.pyc
 
-# Folders to prevent from uploading to public repositoryç
+# Folders to prevent from uploading to public repository
 */data/*
 */kaggle/*
