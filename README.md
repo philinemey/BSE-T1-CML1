@@ -2,7 +2,7 @@
 
 Coursework for *Computational Machine Learning I*, taught in Term 1 at the Barcelona School of Economics, Class of 2022. 
 
-Three extended projects that together make up the entirety of the final grade for the course. Taught by Professor Jack Jewson.
+Three extended projects that together make up the entirety of the final grade for the course. Taught by Jack Jewson.
 
 ## Overview of Topics
 * Project 1: Linear Models
