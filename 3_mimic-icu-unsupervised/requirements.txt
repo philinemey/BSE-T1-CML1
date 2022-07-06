@@ -1,0 +1,11 @@
+### Requirements ###
+spyder-kernels==2.1
+jupyterlab
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+gap-stat
+kneed
+
