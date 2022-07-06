@@ -6,3 +6,4 @@
 *twarc.log
 *.egg-info/*
 build/lib/*
+*/__pycache__/*
