@@ -6,8 +6,8 @@ Three extended projects that together make up the entirety of the final grade fo
 
 ## Overview of Topics
 * Project 1: Linear Models
-    * LinearRegression, Lasso, Hyperparameter optimization
+    * linear regression, LASSO, hyperparameter optimization
 * Project 2: Linear Classification
-    * LogisticRegression, Binary and Multiclass Predictions, Class Imbalance
+    * logistic regression, binary and multiclass predictions, class imbalance
 * Project 3: Unsupervised Learning
-    * PCA, SVD, k-means Clustering
+    * PCA, SVD, k-means clustering
