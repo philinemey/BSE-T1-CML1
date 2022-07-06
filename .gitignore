@@ -1,9 +1,14 @@
-*.DS_Store
 .DS_Store
-.eggs/*
-*/.ipynb_checkpoints/*
+.eggs/
+.ipynb_checkpoints/
 *-checkpoint.ipynb
 *twarc.log
-*.egg-info/*
-build/lib/*
-*/__pycache__/*
+*.egg-info/
+*.egg
+build/
+__pycache__/
+*.pyc
+
+# Folders to prevent from uploading to public repositoryç
+*/data/*
+*/kaggle/*
